@@ -2,6 +2,11 @@
 
 A full-stack Wedding RSVP Management System built with React, TypeScript, Node.js, Express, and MongoDB.
 
+## Project Status
+
+This project is currently available as source code and has not yet been deployed. You can explore the implementation and run it locally using the installation instructions below.
+
+
 ## Features
 
 * Guest RSVP Form
@@ -21,7 +26,7 @@ The application includes an admin dashboard for viewing RSVP statistics and mana
 
 Admin authentication is currently implemented for development purposes and should be replaced with a secure authentication system before production deployment.
 
-## Technologies Used
+
 
 ### Frontend
 
