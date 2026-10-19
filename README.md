@@ -1,4 +1,4 @@
-# Wedding RSVP System 💍
+# Wedding RSVP System 
 
 A full-stack Wedding RSVP Management System built with React, TypeScript, Node.js, Express, and MongoDB.
 
